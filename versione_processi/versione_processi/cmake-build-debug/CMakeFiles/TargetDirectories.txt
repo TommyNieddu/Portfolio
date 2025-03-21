@@ -1,0 +1,3 @@
+/Users/tommy/Desktop/66398_66401_progetto 2/versione_processi/cmake-build-debug/CMakeFiles/so_prog.dir
+/Users/tommy/Desktop/66398_66401_progetto 2/versione_processi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tommy/Desktop/66398_66401_progetto 2/versione_processi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
