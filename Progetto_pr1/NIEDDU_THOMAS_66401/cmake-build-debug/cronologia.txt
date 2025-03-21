@@ -1,0 +1,670 @@
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Gioco chiuso
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Analisi
+Descrizione: Sbagli e vai all'esame di Analisi di quelli di Matematica
+Tipologia: ESAME
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: PR1 Lab
+Descrizione: Il progetto di PR1 non compila e non riesci a consegnarlo
+Tipologia: ESAME
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Ignorato come sempre
+Descrizione: Arrivi in biblioteca di ingegneria e i tuoi colleghi non ti hanno tenuto il posto
+Tipologia: SOCIALE
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Batteria scarica
+Descrizione: Torni a casa e ti accorgi che ti sei dimenticato il caricabatterie in aula magna
+Tipologia: SOPRAVVIVENZA
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Perdi tutto
+Descrizione: Prof. Loddo chiede se i PC vanno e il tuo esplode perdendo il parziale
+Tipologia: STUDIO
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Analisi
+Descrizione: Sbagli e vai all'esame di Analisi di quelli di Matematica
+Tipologia: ESAME
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Ateneika fallimentare
+Descrizione: Ti iscrivi al torneo di biliardino di Ateneika e arrivi ultimo (e neanche di poco)
+Tipologia: SOCIALE
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Una fila infinita
+Descrizione: Arrivi in mensa in via Trentino e c'è una fila chilometrica
+Tipologia: SOPRAVVIVENZA
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Analisi
+Descrizione: Sbagli e vai all'esame di Analisi di quelli di Matematica
+Tipologia: ESAME
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Printf scurrili
+Descrizione: Consegni il progetto di PR1 e scopri che hai lasciato un printf con una parolaccia
+Tipologia: STUDIO
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Molletta per il naso
+Descrizione: Arrivi tardi a lezione e ti tocca sedere vicino al collega che puzza di sudore
+Tipologia: SOCIALE
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: PR1 Teoria
+Descrizione: Prof. Scateni scatena la sua furia e ti boccia al parziale di PR1
+Tipologia: ESAME
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Caricata una partita precedente
+Caricata una partita precedente
+Iniziata una nuova partita
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Molletta per il naso
+Descrizione: Arrivi tardi a lezione e ti tocca sedere vicino al collega che puzza di sudore
+Tipologia: SOCIALE
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Fondamenti
+Descrizione: Questa volta l'intero esame è scritto in binario
+Tipologia: ESAME
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Titolo: Ignorato come sempre
+Descrizione: Arrivi in biblioteca di ingegneria e i tuoi colleghi non ti hanno tenuto il posto
+Tipologia: SOCIALE
+Caricata una partita precedente
+Caricata una partita precedente
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Caricata una partita precedente
+Lettura file personaggi
+Lettura mazzo
+Mazzo di carte mescolato
+Stampa dei giocatori
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Si inizia con gli effetti delle carte
+Attivazione effetti carte
+Ricostruzione spazio di memoria per i giocatori
+Si inizia con gli effetti delle carte istantanee
+Si inizia con gli effetti delle carte istantanee
+Effetto aumenta attivato
+Gestione vincitore/i e perdente/i
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
+Iniziata una nuova partita
+Lettura file personaggi
+Personaggi mescolati
+Stampa dei giocatori
+Lettura mazzo
+Mazzo di carte mescolato
+Mazzo di carte mescolato
+Lettura ostacoli
+Estrazione ostacolo...
